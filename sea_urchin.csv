@@ -1,3 +1,4 @@
+species,source,parent,left_child,right_child,time,left_volume,right_volume,fate,division_angle,shape,elongation_axis
 sea_urchin	https://www.ncbi.nlm.nih.gov/books/NBK9987/	P0	Cell1	Cell2	70	0.5	0.5		90	sphere	
 sea_urchin	https://www.ncbi.nlm.nih.gov/books/NBK9987/	Cell1	Cell1a	Cell1b	110	0.5	0.5		90	sphere	
 sea_urchin	https://www.ncbi.nlm.nih.gov/books/NBK9987/	Cell2	Cell2a	Cell2b	110	0.5	0.5		90	sphere	
