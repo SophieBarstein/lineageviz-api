@@ -1,0 +1,8 @@
+species,parent,left_child,right_child,time,left_volume,right_volume,fate,division_angle,shape,elongation_axis,source
+ciona_intestinalis,P0,A,B,30,0.5,0.5,,,90,sphere,,https://aniseed.cnrs.fr/
+ciona_intestinalis,A,a4.1,a4.2,60,0.5,0.5,,,90,sphere,,https://aniseed.cnrs.fr/
+ciona_intestinalis,B,b4.1,b4.2,60,0.5,0.5,,,90,sphere,,https://aniseed.cnrs.fr/
+ciona_intestinalis,a4.1,a5.3,a5.4,90,0.5,0.5,,,90,sphere,,https://aniseed.cnrs.fr/
+ciona_intestinalis,a4.2,A5.1,A5.2,90,0.5,0.5,,,90,sphere,,https://aniseed.cnrs.fr/
+ciona_intestinalis,b4.1,b5.3,b5.4,90,0.5,0.5,,,90,sphere,,https://aniseed.cnrs.fr/
+ciona_intestinalis,b4.2,B5.1,B5.2,90,0.5,0.5,,,90,sphere,,https://aniseed.cnrs.fr/
